@@ -1,4 +1,4 @@
-# Cineverse 🎬
+# Apeture 🎬
 
 A responsive, purple-blue movie discovery website built with **React, HTML, CSS, Tailwind CSS, JavaScript and Vite**. Powered by the TMDB API. Made to be easy to study, modify, and extend as a beginner.
 
@@ -23,7 +23,7 @@ A responsive, purple-blue movie discovery website built with **React, HTML, CSS,
 
 ## Start locally (Windows / VS Code)
 
-1. Extract the project ZIP, then open the `cineverse` folder in VS Code.
+1. Extract the project ZIP, then open the `Aperture` folder in VS Code.
 2. Open **Terminal → New Terminal**.
 3. Install dependencies:
 
@@ -60,7 +60,7 @@ npm run preview
 ## Easy-to-understand file guide
 
 ```text
-cineverse/
+Aperture/
 ├── index.html             # HTML entry point
 ├── .env.example           # Copy this to .env and add your API key
 ├── vite.config.js         # Vite + Tailwind configuration
